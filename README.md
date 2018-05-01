@@ -1,19 +1,5 @@
-<a href="https://ultimateangular.com" target="_blank"><img src="https://ultimateangular.com/assets/img/banners/ua-github.svg"></a>
 
-# Ultimate Angular: Pro App
-
-> This repo serves as the seed project for the Ultimate Angular 1.x Pro course as well as the final solution in a separate branch, come and [learn advanced Angular](https://ultimateangular.com) 1.5 architecture and components!
-
-[Setup and install](#setup-and-install) |
-[Tasks](#tasks) |
-[Firebase Rules](#firebase-rules) |
-[Resources](#resources)
-
-----
-
-## Live demo of app
-
-[Here's the app](https://contacts-manager-e486f.firebaseapp.com) you're about to build, check it out! Create a user or login to get started with the contacts manager.
+Preview: https://contact-app-2afd2.firebaseapp.com/#/auth/login
 
 ## Setup and install
 
